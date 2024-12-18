@@ -1,0 +1,13 @@
+Package: timeseri
+Type: Package
+Title: Tools for Time Series Regression and Forecasting
+Version: 0.1.0
+Author: Saud AlSheidi
+Maintainer: Saud <s127084@student.squ.edu.om>
+Description: Functions for preprocessing, feature engineering, regression modeling, and forecasting for time series data.
+License: MIT
+Imports: forecast, tseries, dplyr
+Suggests: testthat
+Encoding: UTF-8
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.3.2
